@@ -12,3 +12,5 @@ protobuf==3.19.6
 gdown @ git+https://github.com/melMass/gdown@main
 mmdet==3.0.0
 facexlib==0.3.0
+insightface
+basicsr
